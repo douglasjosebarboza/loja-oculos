@@ -22,22 +22,22 @@ export function SectionProdutos() {
                 <div className='container-cards'>
                     <div className='card'>
                         <h3>Óculos de grau</h3>
-                        <img src="./src/assets/imgs/oculos01.png" alt="Óculos de grau" />
+                        <img src="src/assets/imgs/oculos01.png" alt="Óculos de grau" />
                         <p>R$ 500,00</p>
                     </div>
                     <div className='card'>
                         <h3>Óculos transition</h3>
-                        <img src="./src/assets/imgs/oculos02.png" alt="Óculos de grau" />
+                        <img src="src/assets/imgs/oculos02.png" alt="Óculos de grau" />
                         <p>R$ 750,00</p>
                     </div>
                     <div className='card'>
                         <h3>Óculos de sol</h3>
-                        <img src="./src/assets/imgs/oculos03.png" alt="Óculos de grau" />
+                        <img src="src/assets/imgs/oculos03.png" alt="Óculos de grau" />
                         <p>R$ 700,00</p>
                     </div>
                     <div className='card'>
                         <h3>Óculos infantil</h3>
-                        <img src="./src/assets/imgs/oculos04.png" alt="Óculos de grau" />
+                        <img src="src/assets/imgs/oculos04.png" alt="Óculos de grau" />
                         <p>R$ 500,00</p>
                     </div>
                 </div>
@@ -60,7 +60,7 @@ export function SectionSobre() {
                 <h1>QUEM SOMOS NÓS?</h1>
                 <p>Fundada em 2001, em Nova Iguaçu - Rio de Janeiro, a Óticas vida iniciou suas atividades focada no atendimento ao público de renda mais baixa, sempre com o objetivo de proporcionar ao cliente bom atendimento, qualidade e preço baixo.</p>
                 <div className='container-cards'>
-                    <img className='card' src="./src/assets/imgs/loja.png" alt="" />
+                    <img className='card' src="src/assets/imgs/loja.png" alt="" />
                     <div className='card text'>
                         <h3>Nossas Filiais</h3>
                         <p>Hoje temos mais de 20 filiais pelo Brasil e na América</p>
@@ -69,7 +69,7 @@ export function SectionSobre() {
                         <h3>Atendimento flexível</h3>
                         <p>Nossa equipe possui é treinada para te atender</p>
                     </div>
-                    <img className='card' src="./src/assets/imgs/atendimento.png" alt="" />
+                    <img className='card' src="src/assets/imgs/atendimento.png" alt="" />
                 </div>
             </div>
         </section>
@@ -86,30 +86,30 @@ export function SectionContato() {
                     <div>
                         <h4>Contato</h4>
                         <figure>
-                            <img src="./src/assets/imgs/local.png" alt="" />
+                            <img src="src/assets/imgs/local.png" alt="" />
                             <figcaption>Nova Iguaçu, RJ</figcaption>
                         </figure>
                         <figure>
-                            <img src="./src/assets/imgs/telefone.png" alt="" />
+                            <img src="src/assets/imgs/telefone.png" alt="" />
                             <figcaption>(21) 9999-9999</figcaption>
                         </figure>
                         <figure>
-                            <img src="./src/assets/imgs/email.png" alt="" />
+                            <img src="src/assets/imgs/email.png" alt="" />
                             <figcaption>contato@oticavida.com</figcaption>
                         </figure>
                     </div>
                     <div>
                         <h4>Nossas Redes Sociais</h4>
                         <figure>
-                            <img src="./src/assets/imgs/fb.png" alt="" />
+                            <img src="src/assets/imgs/fb.png" alt="" />
                             <figcaption>/OticaVida</figcaption>
                         </figure>
                         <figure>
-                            <img src="./src/assets/imgs/ig.png" alt="" />
+                            <img src="src/assets/imgs/ig.png" alt="" />
                             <figcaption>@oticavidarj</figcaption>
                         </figure>
                         <figure>
-                            <img src="./src/assets/imgs/tt.png" alt="" />
+                            <img src="src/assets/imgs/tt.png" alt="" />
                             <figcaption>@oticavidarj</figcaption>
                         </figure>
                     </div>
