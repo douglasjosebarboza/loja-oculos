@@ -1,0 +1,40 @@
+header {
+    padding: 10px 15px;
+}
+
+header .limitar-secao {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header img {
+    width: 150px;
+}
+
+header ul {
+    display: flex;   
+}
+
+header a {
+    font-size: 18px;
+    color: #000;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 5px;
+    margin: 0 5px;
+}
+
+@media (max-width: 550px) {
+    header .limitar-secao {
+        flex-direction: column;
+    }
+
+    header li {
+        width: 100%;
+        text-align: center;
+        margin-top: 20px;
+        border-top: 1px solid #aaadaf;
+    }
+}
