@@ -7,9 +7,9 @@ export default function Header() {
                 <img src="/logo.png" alt="Logo" />
                 <nav>
                     <ul type='none'>
-                        <li><a href="#">Produtos</a></li>
-                        <li><a href="#">Sobre</a></li>
-                        <li><a href="#">Contato</a></li>
+                        <li><a href="#produtos">Produtos</a></li>
+                        <li><a href="#sobre">Sobre</a></li>
+                        <li><a href="#contato">Contato</a></li>
                     </ul>
                 </nav>
             </div>
