@@ -12,7 +12,7 @@ O sistema de navegação permite aos usuários explorarem facilmente diversas á
 - **Contato**: Informações de contato, como o endereço físico, email, números de telefone e as redes sociais.
 
 ### Tecnologias utilizadas
-- ReactJS
+- React JS
 - CSS
 - Resposividade
 
